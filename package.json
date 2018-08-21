@@ -1,0 +1,10 @@
+{
+  "name": "yarnTest",
+  "version": "ls",
+  "description": "test",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "map-reverse": "^1.0.1"
+  }
+}
